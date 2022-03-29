@@ -1,0 +1,6 @@
+framework module Pods_VendorHubTests {
+  umbrella header "Pods-VendorHubTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
